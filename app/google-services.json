@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "959682237221",
+    "firebase_url": "https://arte-1575604743184.firebaseio.com",
+    "project_id": "arte-1575604743184",
+    "storage_bucket": "arte-1575604743184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959682237221:android:4d4404fc976254212ec0cc",
+        "android_client_info": {
+          "package_name": "com.teamarte.arte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959682237221-dbadkr878e25d5onigq2ppmr7109mbi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamarte.arte",
+            "certificate_hash": "d3933700b4405afb58491c407991052b1cfe0b51"
+          }
+        },
+        {
+          "client_id": "959682237221-fk635fpai7d8vhtqr06d2ouive8pgqds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoGKTclFANf8WRHMfeoL1vxf6jQYj_7oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959682237221-fk635fpai7d8vhtqr06d2ouive8pgqds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

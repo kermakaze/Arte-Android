@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Explore Art"
+        android:id="@+id/exploreArtMenu"
+        android:icon="@drawable/ic_bubble_chart_black_24dp"
+        />
+
+
+    <item android:title="Art Sold"
+        android:id="@+id/artSoldMenu"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        />
+
+    <item android:title="Sign Out"
+        android:id="@+id/signOutMenu"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+</menu>
